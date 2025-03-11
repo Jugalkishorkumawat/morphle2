@@ -1,7 +1,8 @@
 # morphle2
 https://github.com/Jugalkishorkumawat/morphle2
 http://127.0.0.1:8080/htop
-this output is for the first program i am not able to download ngrok
+# This output is for the first program. I am not able to download ngrok.
+# so , Kindly consider this as output.
 System Information
 Name: Jugalkishor
 
